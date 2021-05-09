@@ -28,6 +28,7 @@ body, html{
     float: left;
     color: white;
     font-weight: bold;
+    font-family: monospace;
 }
 .dButton{
     float: right;
@@ -114,7 +115,8 @@ body, html{
     display: inline-block;
     text-align: center;
     padding: 20px 10px 20px 10px;
-    background: url(img/arab);
+    background-image: url(https://cdn.discordapp.com/attachments/839378323243401216/840860125819830312/arab.jpg);
+    object-fit: cover;
 }
 .subFooter img{
     float: left;
