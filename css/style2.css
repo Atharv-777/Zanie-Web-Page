@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 80px;
+    background: chartreuse;
+}
+.navbar-style{
+    box-shadow: 0 5px 10px #efefef;
+}
+.name{
+    font-size: 30px;
+}
+
+.dButton{
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    background: black;
+    color: white;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 15px 10px 0 0;
+    display: block;
+}
+.dButton img{
+    width: 20px;
+    height: 15px;
+    margin: 0 10px 0 0px;
+}
